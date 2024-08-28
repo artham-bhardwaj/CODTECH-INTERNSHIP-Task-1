@@ -3,10 +3,10 @@
 ## Project Details
 
 - **Name**: Artham Bhardwaj
-- **Company**: CodTech IT Solutions 
+- **Company**: CodTech IT Solutions
 - **ID**: CT12DS1704
 - **Domain**: DATA SCIENCE
-- **Duration**: July 10 , 2024 - Sep 10 , 2024
+- **Duration**: July 10, 2024 - Sep 10, 2024
 - **Mentor**: Mr. Muzammil Ahmed
 
 ## Overview of the Project
@@ -47,3 +47,38 @@ The primary objective of this project is to perform an in-depth Exploratory Data
 ### Result and Conclusion
 The EDA provided a clear understanding of the CelebA dataset's structure, revealing important insights into attribute distributions and relationships. The analysis confirmed the presence of potential biases, such as the prevalence of 'Young' and 'Smiling' labels, which should be considered in any future modeling efforts. The dataset's consistency, as evidenced by the lack of significant outliers, ensures reliability for further analysis.
 
+### Output Images
+
+Below are some visualizations from the EDA:
+
+- **Gender Distribution**
+
+  ![Gender Distribution](images/gender_distribution.png)
+
+- **Attribute Distribution**
+
+  ![Attribute Distribution](images/attribute_distribution.png)
+
+- **Histogram for Age Distribution**
+
+  ![Distribution of Young Attribute](images/age_distribution.png)
+
+- **Histogram for Smiling Attribute**
+
+  ![Distribution of Smiling Attribute](images/smiling_distribution.png)
+
+- **Scatter Plot: Gender vs Smiling**
+
+  ![Gender vs Smiling](images/gender_vs_smiling.png)
+
+- **Scatter Plot: Young vs Wearing Hat**
+
+  ![Young vs Wearing Hat](images/young_vs_wearing_hat.png)
+
+- **Correlation Matrix**
+
+  ![Correlation Matrix](images/correlation_matrix.png)
+
+- **Boxplot of Young Attribute**
+
+  ![Boxplot of Young Attribute](images/boxplot_young.png)
